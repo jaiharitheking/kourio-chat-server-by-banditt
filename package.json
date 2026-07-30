@@ -1,0 +1,14 @@
+{
+  "name": "kour-chat-server",
+  "version": "1.0.0",
+  "description": "Kour.io Chat Signaling Server by Banditt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "author": "Banditt",
+  "license": "MIT"
+}
